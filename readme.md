@@ -6,6 +6,10 @@
 
 This is a budget tracker. It a great tool to use when tracking expenses and deposits just simply add them to this application and it will give you an overview of your income vs expenditure. Its very convenient to use as it does not require any internet access and your data maybe be saved off or online.
 
+## Application Demo
+
+<img src ="public/icons/demo budget tracker.png " />
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -41,7 +45,9 @@ MIT License
 - Mongoose
 - Morgan
 
+### Application deployed - 
 
+https://linofflinebudgettracker.herokuapp.com/
 
 
 
